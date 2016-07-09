@@ -723,9 +723,9 @@ hr{
     position:fixed;
     top:0;
     left:0;
-    width:100px;
+    width:300px;
     overflow-x:hidden;
-    overflow-y:scroll;
+    overflow-y:hidden;
     height:100%;
     background:#343131;
     z-index:200;
