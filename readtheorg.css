@@ -723,7 +723,7 @@ hr{
     position:fixed;
     top:0;
     left:0;
-    width:300px;
+    width:100px;
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
